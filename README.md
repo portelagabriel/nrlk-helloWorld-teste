@@ -1,2 +1,2 @@
-# Testing Build on Open Pull Request - Failed
+# Testing Build on Open Pull Request
 
